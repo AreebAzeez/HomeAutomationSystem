@@ -26,9 +26,7 @@ Safety Mechanisms: Integrate safety features like fire or gas leakage detection.
 Development Boards:
 
 Arduino Uno
-
 Arduino Micro
-
 NodeMCU (ESP8266/ESP32)
 
 
