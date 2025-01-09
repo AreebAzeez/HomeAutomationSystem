@@ -26,19 +26,24 @@ Safety Mechanisms: Integrate safety features like fire or gas leakage detection.
 Development Boards:
 
 Arduino Uno
+
 Arduino Micro
+
 NodeMCU (ESP8266/ESP32)
 
 
 Sensors:
 
 DHT11/DHT22 (Temperature & Humidity)
+
 PIR Motion Sensor
+
 Light Dependent Resistor (LDR)
 
 Actuators:
 
 Relays for controlling appliances
+
 LEDs and buzzers for indicators
 
 
