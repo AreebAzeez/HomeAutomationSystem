@@ -26,34 +26,27 @@ Safety Mechanisms: Integrate safety features like fire or gas leakage detection.
 Development Boards:
 
 Arduino Uno
-
+Arduino Micro
 NodeMCU (ESP8266/ESP32)
 
 
 Sensors:
 
 DHT11/DHT22 (Temperature & Humidity)
-
 PIR Motion Sensor
-
 Light Dependent Resistor (LDR)
-
 
 Actuators:
 
 Relays for controlling appliances
-
 LEDs and buzzers for indicators
 
 
 🖥️ Software & Tools
 
 Arduino IDE
-
 MQTT protocol for IoT communication
-
 Blynk or similar platforms for remote control
-
 Fritzing for circuit design
 
 
@@ -68,10 +61,7 @@ Fritzing for circuit design
 Prerequisites
 
 1. Install Arduino IDE.
-
-
 2. Install necessary libraries (e.g., WiFi, MQTT, Adafruit DHT).
-
 
 
 Setup
@@ -95,9 +85,7 @@ cd HomeAutomationSystem
 
 1. Sensors detect environmental conditions (e.g., temperature, motion).
 
-
 2. NodeMCU communicates with the cloud server for remote access.
-
 
 3. Appliances are controlled based on sensor data or user inputs.
 
@@ -111,17 +99,10 @@ cd HomeAutomationSystem
 🧑‍💻 Contributors
 
 Areeb Mohamed Azeez
-
 LinkedIn: Your LinkedIn Profile
-
 Email: areebazeez2829@gmail.com
-
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 🤝 Acknowledgments
 
-Special thanks to my university for the guidance and resources provided for this project.
+Special thanks to my university for the guidance and resources provided for this project.Further to my 3 colleagues who were partnered with me to complete this project.Finally my Lecturer Mr. Pasindu Gamage.
