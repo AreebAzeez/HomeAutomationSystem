@@ -1,4 +1,4 @@
-#Home Automation System
+#HomeAutomationSystem
 
 A comprehensive home automation system designed to enhance energy efficiency, safety, and user convenience using IoT technologies, Arduino, and NodeMCU.
 
