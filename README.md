@@ -1,14 +1,14 @@
-#HomeAutomationSystem
+Home Automation System
 
 A comprehensive home automation system designed to enhance energy efficiency, safety, and user convenience using IoT technologies, Arduino, and NodeMCU.
 
 
-#📜 Project Overview
+📜 Project Overview
 
 This project implements a smart home automation system integrating sensors, actuators, and IoT devices. The system enables real-time monitoring and control of home appliances for sustainable energy management and improved user comfort.
 
 
-#✨ Features
+✨ Features
 
 Automated Power Management: Optimize energy consumption using sensor-based triggers.
 
@@ -21,7 +21,7 @@ Sensor-Based Automation: Automate devices like lights and fans based on environm
 Safety Mechanisms: Integrate safety features like fire or gas leakage detection.
 
 
-#🛠️ Hardware Components
+🛠️ Hardware Components
 
 Development Boards:
 
@@ -46,7 +46,7 @@ Relays for controlling appliances
 LEDs and buzzers for indicators
 
 
-#🖥️ Software & Tools
+🖥️ Software & Tools
 
 Arduino IDE
 
@@ -57,13 +57,13 @@ Blynk or similar platforms for remote control
 Fritzing for circuit design
 
 
-#📋 System Architecture
+📋 System Architecture
 
 
 (Replace with your own system diagram or photo)
 
 
-#🚀 Getting Started
+🚀 Getting Started
 
 Prerequisites
 
@@ -91,7 +91,7 @@ cd HomeAutomationSystem
 4. Assemble the hardware as per the circuit diagram in docs/circuit_diagram.pdf.
 
 
-#🧪 How It Works
+🧪 How It Works
 
 1. Sensors detect environmental conditions (e.g., temperature, motion).
 
@@ -108,7 +108,7 @@ cd HomeAutomationSystem
 (Add photos of your system here)
 
 
-#🧑‍💻 Contributors
+🧑‍💻 Contributors
 
 Areeb Mohamed Azeez
 
@@ -117,11 +117,11 @@ LinkedIn: Your LinkedIn Profile
 Email: areebazeez2829@gmail.com
 
 
-#📄 License
+📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-#🤝 Acknowledgments
+🤝 Acknowledgments
 
 Special thanks to my university for the guidance and resources provided for this project.
